@@ -1,0 +1,16 @@
+{
+  "name": "mahimj-earth",
+  "version": "1.0.0",
+  "description": "MahimJ Earth - an interactive 3D globe explorer (Google Earth-style) built with CesiumJS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["3d", "globe", "earth", "cesium", "satellite", "gis"],
+  "author": "maddy1357",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}
