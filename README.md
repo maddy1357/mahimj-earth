@@ -201,4 +201,4 @@ The backend follows the [Nominatim usage policy](https://operations.osmfoundatio
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE).
+Copyright (c) 2026 mahimj. All rights reserved. Proprietary software — see [LICENSE](LICENSE).

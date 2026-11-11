@@ -10,7 +10,7 @@
   },
   "keywords": ["3d", "globe", "earth", "cesium", "satellite", "gis", "express"],
   "author": "maddy1357",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "engines": {
     "node": ">=18.17"
   },
